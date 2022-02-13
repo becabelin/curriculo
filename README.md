@@ -55,7 +55,7 @@ Então, comecei a procurar sobre a área de tech e o meu primeiro curso feito co
 🏬 **Empresa:** [Klutch Tecnologia](https://www.klutch.com.br) <br>
 🕑 **Tipo de trabalho:** estágio <br>
 📓 **Atividades desempenhadas:** <br>
-🠖ㅤCriação de wireframes de baixa a alta fidelidade <br>
+🠖ㅤCriação de interfaces <br>
 🠖ㅤAnálise e comparação de interfaces <br>
 🠖ㅤBenchmarking e análise do mercado <br>
 🠖ㅤDesign de jogos <br>
