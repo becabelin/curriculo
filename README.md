@@ -38,8 +38,8 @@ Então, comecei a procurar sobre a área de tech e o meu primeiro curso feito co
 ![](https://user-images.githubusercontent.com/69727594/153774542-7e4cc768-62be-4169-9a55-c015b5a55b8d.png)
 ### 🖥️ Experiência profissional
 
-<img align="right" src=https://user-images.githubusercontent.com/69727594/153775191-eeffb2d9-a8bb-41a5-b14f-7d22ebaa5d16.gif width=500>
-<img align="right" src=https://user-images.githubusercontent.com/69727594/153775540-aa404cce-92db-48f4-83f5-2b6e71f04abd.gif width=500>
+<img align="right" src=https://user-images.githubusercontent.com/69727594/153775191-eeffb2d9-a8bb-41a5-b14f-7d22ebaa5d16.gif width=300>
+<img align="right" src=https://user-images.githubusercontent.com/69727594/153775540-aa404cce-92db-48f4-83f5-2b6e71f04abd.gif width=300>
 
 #### UX/UI Designer Júnior (jan de 2022 - o momento) <br>
 🏬 Empresa: [**Jetimob**](https://www.jetimob.com) <br>
