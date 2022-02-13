@@ -43,18 +43,18 @@ Então, comecei a procurar sobre a área de tech e o meu primeiro curso feito co
 
 #### UX/UI Designer Júnior
 ###### (jan de 2022 - o momento) <br>
-🏬 **Empresa:** [Jetimob](https://www.jetimob.com) <br>
-🕑 **Tipo de trabalho:** meio período <br>
-📓 **Atividades desempenhadas:** <br>
+🏬ㅤ**Empresa:** [Jetimob](https://www.jetimob.com) <br>
+🕑ㅤ**Tipo de trabalho:** meio período <br>
+📓ㅤ**Atividades desempenhadas:** <br>
 🠖ㅤCriação de interfaces <br>
 🠖ㅤBenchmarking e análise de mercado <br>
 
 #
 #### Estagiária de UX/UI Design
 ###### (set de 2021 - dez de 2021) <br>
-🏬 **Empresa:** [Klutch Tecnologia](https://www.klutch.com.br) <br>
-🕑 **Tipo de trabalho:** estágio <br>
-📓 **Atividades desempenhadas:** <br>
+🏬ㅤ**Empresa:** [Klutch Tecnologia](https://www.klutch.com.br) <br>
+🕑ㅤ**Tipo de trabalho:** estágio <br>
+📓ㅤ**Atividades desempenhadas:** <br>
 🠖ㅤCriação de interfaces <br>
 🠖ㅤAnálise e comparação de interfaces <br>
 🠖ㅤBenchmarking e análise do mercado <br>
