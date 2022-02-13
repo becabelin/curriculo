@@ -38,10 +38,11 @@ Então, comecei a procurar sobre a área de tech e o meu primeiro curso feito co
 ![](https://user-images.githubusercontent.com/69727594/153774542-7e4cc768-62be-4169-9a55-c015b5a55b8d.png)
 ### 🖥️ Experiência profissional
 
-<img align="right" src=https://user-images.githubusercontent.com/69727594/153775191-eeffb2d9-a8bb-41a5-b14f-7d22ebaa5d16.gif width=400>
-<img align="right" src=https://user-images.githubusercontent.com/69727594/153775540-aa404cce-92db-48f4-83f5-2b6e71f04abd.gif width=400>
+<img align="right" src=https://user-images.githubusercontent.com/69727594/153775191-eeffb2d9-a8bb-41a5-b14f-7d22ebaa5d16.gif width=450>
+<img align="right" src=https://user-images.githubusercontent.com/69727594/153775540-aa404cce-92db-48f4-83f5-2b6e71f04abd.gif width=450>
 
-#### UX/UI Designer Júnior (jan de 2022 - o momento) <br>
+#### UX/UI Designer Júnior
+###### (jan de 2022 - o momento) <br>
 🏬 Empresa: [**Jetimob**](https://www.jetimob.com) <br>
 🕑 Tipo de trabalho: meio período <br>
 📓 Atividades desempenhadas: <br>
@@ -50,7 +51,8 @@ Então, comecei a procurar sobre a área de tech e o meu primeiro curso feito co
 
 #
 
-#### Estagiária de UX/UI Design (set de 2021 - dez de 2021) <br>
+#### Estagiária de UX/UI Design
+###### (set de 2021 - dez de 2021) <br>
 🏬 Empresa: [**Klutch Tecnologia**](https://www.klutch.com.br) <br>
 🕑 Tipo de trabalho: estágio <br>
 📓 Atividades desempenhadas: <br>
