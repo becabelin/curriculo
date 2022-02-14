@@ -237,10 +237,10 @@ Fui escritora de cartas na ação Corrente do Bem, que é destinada a transforma
 #### Colaboradora voluntária
 ###### (set de 2020 - jan de 2021) <br>
 
-🏬ﾠ**Organização:** Universidade Federal do Ceará (UFC) <br>
+🏬ﾠ**Organização:** [Universidade Federal do Ceará (UFC)](https://www.ufc.br) <br>
 
 📓ﾠ**Atividade desempenhada:** <br>
-O "É da nossa escola que falamos" é um projeto de extensão do Departamento de Psicologia da Universidade Estadual do Ceará (UFC). <br>
+O [É da nossa escola que falamos](http://periodicos.ufc.br/eu/article/view/56633) é um projeto de extensão do Departamento de Psicologia da Universidade Estadual do Ceará (UFC). <br>
 🙋🏻‍♀Durante a minha participação no projeto, conduzi junto com a equipe a pesquisa "Gravidez na adolescência: diálogos sobre maternidade e paternidade na escola". Fizemos bate-papos, entrevistas e outros com o fim de juntar informações para a pesquisa. <br>
 
 🔗 **Links:** <br>
@@ -268,3 +268,11 @@ O "É da nossa escola que falamos" é um projeto de extensão do Departamento de
 <br>
 
 ![](https://user-images.githubusercontent.com/69727594/153774542-7e4cc768-62be-4169-9a55-c015b5a55b8d.png)
+### 😊 Final
+
+Obrigada se você leu até aqui!
+Caso queira entrar em contato comigo para quaisquer fins que sejam (feedbacks, sugestões, projetos e trabalho), você pode contatar por [e-mail](mailto:becabelin@gmail.com) ou me seguir nas redes sociais!
+[LinkedIn](https://www.linkedin.com/in/becabelin) | [Instagram](https://www.instagram.com/meninadeux) | [GitHub](https://github.com/becabelin) | [Behance](https://www.behance.net/becabelin) | [Figma](http://figma.com/@becabelin) | [YouTube](https://www.youtube.com/channel/UCfWSodyesItLGaiwbXd3-_Q)
+#
+
+> Para voltar ao topo, [clique aqui](#-meu-currículo) 😊
