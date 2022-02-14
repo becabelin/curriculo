@@ -71,3 +71,100 @@ Então, comecei a procurar sobre a área de tech e o meu primeiro curso feito co
 
 ![](https://user-images.githubusercontent.com/69727594/153774542-7e4cc768-62be-4169-9a55-c015b5a55b8d.png)
 ### 📚 Formação acadêmica
+
+#### /código[s] - Formação em Python
+
+###### (jan de 2022 - o momento) <br>
+
+🏫ﾠ**Escola:** [How Bootcamps](https://howedu.com.br) <br>
+
+#
+#### #OTechTáOn - Curso de Tecnologia
+
+###### (ago de 2021 - jan de 2022) <br>
+
+🏫ﾠ**Escola:** [#TeuFuturo](https://www.imed.edu.br/institucional/responsabilidade-social/-teufuturo-1) <br>
+
+🤓 **Sobre o curso:**
+
+No #OTechTáOn, ganhei uma vaga para a primeira turma da jornada Preparar, que consiste em aprender a programar e todas as habilidades necessárias para procurar o primeiro emprego em empresas de tecnologia. Aprendemos usando as plataformas de ensino Khan Academy e Alura. <br>
+Fui líder dos squads que participei e também da Tribo Fênix, onde fizemos o nosso projeto de conclusão de curso, Mentalix, que é voltado para cuidados com a saúde. Também fui uma das oradoras de turma na formatura e também uma das alunas destaque, sendo premiada.
+
+📓ﾠ**O que aprendi:** <br>
+🠖ㅤLógica de Programação <br>
+🠖ㅤHTML5 e CSS3 <br>
+🠖ㅤJavaScript <br>
+🠖ㅤGIT e GitHub <br>
+🠖ㅤFigma <br>
+🠖ㅤTrello <br>
+🠖ㅤComunicação <br>
+🠖ㅤPreparação para entrevistas <br>
+🠖ㅤTrabalho em equipe <br>
+
+🔗 **Links**: <br>
+🠖ㅤ[Certificado](https://www.linkedin.com/in/becabelin/overlay/education/755970876/multiple-media-viewer/?treasuryMediaId=1635482608230) <br>
+🠖ㅤ[Atividades feitas durante o curso](https://github.com/becabelin/tech-ta-on) <br>
+🠖ㅤ[Apostila de HTTP](https://github.com/becabelin/apostila-de-http) <br>
+🠖ㅤ[Apostila de GIT e GitHub](https://github.com/becabelin/apostila-git-github) <br>
+
+#
+#### Academia ConstruDelas - Formação em C#
+
+###### (set de 2021 - nov de 2021) <br>
+
+🏫ﾠ**Escola:** [Gama Academy](https://www.gama.academy) <br>
+
+🤓 **Sobre o curso:**
+
+O ConstruDelas é um programa de formação em tecnologia 100% online e gratuito contendo cerca de 160 horas de formação - com aprendizado na prática e em grupo e mentorias com professores e profissionais - para todas as mulheres que querem dar um novo rumo para sua carreira contando com uma formação gratuita básica em programação. <br>
+Na academia, participei do módulo de Fundamentos da Programação e depois fui para a turma de C#, com as aulas ministradas pelos professores Danilo Aparecido (Torne-se Um Programador) e Filipe Ceccon.
+
+📓ﾠ**O que aprendi:** <br>
+🠖ㅤMetodologias ágeis <br>
+🠖ㅤLógica de programação + Estrutura de dados <br>
+🠖ㅤGit e GitHub <br>
+🠖ㅤHTML <br>
+🠖ㅤC# e .NET <br>
+🠖ㅤBanco de dados <br>
+🠖ㅤSQL Server <br>
+
+🔗 **Links**: <br>
+🠖ㅤ[Certificado](https://drive.google.com/file/d/18AG90ipPbaXoeWwWuvAjECBzGmlEmKlx/view) <br>
+🠖ㅤ[Atividades feitas durante o curso](https://github.com/becabelin/construdelas-gama) <br>
+
+#
+#### Product Management
+
+###### (ago de 2021 - out de 2021) <br>
+
+🏫ﾠ**Escola:** [How Bootcamps](https://howedu.com.br) <br>
+
+🤓 **Sobre o curso:**
+
+O Bootcamp foi uma formação prática de 10 semanas para dar o próximo passo em Product Management, uma área que envolve a concepção, desenvolvimento, lançamento, suporte e melhorias de produtos digitais.
+
+📓ﾠ**O que aprendi:** <br>
+🠖ㅤIntrodução a Product Management <br>
+🠖ㅤEstratégias de Negócio e Produto <br>
+🠖ㅤProcessos de Discovery e Delivery <br>
+🠖ㅤLançamento e Cultura de Produto <br>
+
+🧏🏻 Participei do Squad 4, onde trabalhamos com o desafio da baixa adesão ao Clube iFood.
+
+🧐 Durante o processo de Discovery, trabalhamos com: <br>
+🠖ㅤBenchmarking e Golden Circle <br>
+🠖ㅤBusiness Model Canvas <br>
+🠖ㅤVisão de Produto e Matriz CSD <br>
+🠖ㅤÁrvore de Oportunidades <br>
+🠖ㅤPesquisas Quantitativas e Qualitativas <br>
+🠖ㅤEmpathy Canvas e Jornada do Usuário <br>
+🠖ㅤValue Proposition <br>
+
+🛒 No processo de Delivery: <br>
+🠖ㅤCriação dos protótipos da solução <br>
+🠖ㅤGo To Market <br>
+🠖ㅤHeart Framework <br>
+
+🔗 **Links**: <br>
+🠖ㅤ[Certificado](https://drive.google.com/file/d/1ZRsEnBdnUaxQpQo731UpBnBrl1awt5s0/view?usp=sharing) <br>
+🠖ㅤ[Projeto](https://www.linkedin.com/in/becabelin/details/education/739796119/multiple-media-viewer/?treasuryMediaId=1635472489077) <br>
