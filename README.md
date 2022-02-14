@@ -170,38 +170,6 @@ Participei do Squad 4, onde trabalhamos com o desafio da baixa adesão ao Clube 
 <br>
 
 ![](https://user-images.githubusercontent.com/69727594/153774542-7e4cc768-62be-4169-9a55-c015b5a55b8d.png)
-### 🤓 Skills
-
-#### 📗 Atividades
-🠖ㅤUser Experience (UX) <br>
-🠖ㅤUser Interface (UI) <br>
-🠖ㅤUX Research <br>
-🠖ㅤGestão de tarefas <br>
-🠖ㅤMídias sociais <br>
-
-#### 👩🏻‍💻 Programação
-🠖ㅤHTML5 <br>
-🠖ㅤCSS3 <br>
-🠖ㅤJavaScript <br>
-🠖ㅤC# <br>
-🠖ㅤPython <br>
-🠖ㅤGitHub <br>
-🠖ㅤGIT <br>
-
-#### 🛠️ Ferramentas
-🠖ㅤFigma <br>
-🠖ㅤAdobe XD <br>
-🠖ㅤMiro <br>
-🠖ㅤTrello <br>
-🠖ㅤInVision <br>
-🠖ㅤClickUp <br>
-#
-
-> Para voltar ao topo, [clique aqui](#-meu-currículo) 😊
-
-<br>
-
-![](https://user-images.githubusercontent.com/69727594/153774542-7e4cc768-62be-4169-9a55-c015b5a55b8d.png)
 ### 💝 Voluntariado
 
 #### Voluntária - Frente UX (Núcleo Educacional)
@@ -245,6 +213,38 @@ O [É da nossa escola que falamos](http://periodicos.ufc.br/eu/article/view/5663
 
 🔗 **Links:** <br>
 🠖ㅤ[Declaração de voluntariado](https://drive.google.com/file/d/1O7BjvgHcocwcJb0tCEVl4VveSWnq1lb3/view) <br>
+#
+
+> Para voltar ao topo, [clique aqui](#-meu-currículo) 😊
+
+<br>
+
+![](https://user-images.githubusercontent.com/69727594/153774542-7e4cc768-62be-4169-9a55-c015b5a55b8d.png)
+### 🤓 Skills
+
+#### 📗 Atividades
+🠖ㅤUser Experience (UX) <br>
+🠖ㅤUser Interface (UI) <br>
+🠖ㅤUX Research <br>
+🠖ㅤGestão de tarefas <br>
+🠖ㅤMídias sociais <br>
+
+#### 👩🏻‍💻 Programação
+🠖ㅤHTML5 <br>
+🠖ㅤCSS3 <br>
+🠖ㅤJavaScript <br>
+🠖ㅤC# <br>
+🠖ㅤPython <br>
+🠖ㅤGitHub <br>
+🠖ㅤGIT <br>
+
+#### 🛠️ Ferramentas
+🠖ㅤFigma <br>
+🠖ㅤAdobe XD <br>
+🠖ㅤMiro <br>
+🠖ㅤTrello <br>
+🠖ㅤInVision <br>
+🠖ㅤClickUp <br>
 #
 
 > Para voltar ao topo, [clique aqui](#-meu-currículo) 😊
