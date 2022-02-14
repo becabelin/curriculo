@@ -42,18 +42,26 @@ Então, comecei a procurar sobre a área de tech e o meu primeiro curso feito co
 <img align="right" src=https://user-images.githubusercontent.com/69727594/153775540-aa404cce-92db-48f4-83f5-2b6e71f04abd.gif width=430>
 
 #### UX/UI Designer Júnior
+
 ###### (jan de 2022 - o momento) <br>
+
 🏬ﾠ**Empresa:** [Jetimob](https://www.jetimob.com) <br>
+
 🕑ﾠ**Tipo de trabalho:** meio período <br>
+
 📓ﾠ**Atividades desempenhadas:** <br>
 🠖ㅤCriação de interfaces <br>
 🠖ㅤBenchmarking e análise de mercado <br>
 
 #
 #### Estagiária de UX/UI Design
+
 ###### (set de 2021 - dez de 2021) <br>
+
 🏬ﾠ**Empresa:** [Klutch Tecnologia](https://www.klutch.com.br) <br>
+
 🕑ﾠ**Tipo de trabalho:** estágio <br>
+
 📓ﾠ**Atividades desempenhadas:** <br>
 🠖ㅤCriação de interfaces <br>
 🠖ㅤAnálise e comparação de interfaces <br>
@@ -178,33 +186,56 @@ Participei do Squad 4, onde trabalhamos com o desafio da baixa adesão ao Clube 
 ### 💝 Voluntariado
 
 #### Voluntária - Frente UX (Núcleo Educacional)
+
 ###### (nov de 2021 - o momento) <br>
+
 🏬ﾠ**Organização:** [Instituto Bold](https://www.institutobold.org.br) <br>
+
 📓ﾠ**Atividade desempenhada:** <br>
 Ajudo a entender como está sendo a experiência dos alunos desde o onboarding no projeto até a realização das jornadas dentro do Bold.
 
 #
 #### Embaixadora
+
 ###### (jul de 2021 - set de 2021) <br>
+
 🏬ﾠ**Organização:** [Rede Multilateral](https://www.instagram.com/redemultilateral/) <br>
+
 📓ﾠ**Atividade desempenhada:** <br>
-Durante meu período como voluntária, ajudei na divulgação de projetos e encaminhei alunos para as iniciativas, todas voltadas para a educação.
+Durante meu período como voluntária, ajudei na divulgação de projetos e encaminhei alunos para as iniciativas, todas voltadas para a educação. <br>
+
 🔗 **Links:** <br>
 🠖ㅤ[Declaração de voluntariado (90h)](https://drive.google.com/file/d/1RSJEJXCPvMEp5b9fO6Y2UAfXc-ArLw8k/view) <br>
 
 #
 #### Voluntária
+
 ###### (jul de 2021 - ago de 2021) <br>
+
 🏬ﾠ**Organização:** [Atados](https://www.atados.com.br) <br>
+
 📓ﾠ**Atividade desempenhada:** <br>
 Fui escritora de cartas na ação Corrente do Bem, que é destinada a transformar a vida de idosos e profissionais da saúde com muita alegria e carinho através de cartas, nesses momentos tão difíceis.
 
 #
 #### Colaboradora voluntária
+
 ###### (set de 2020 - jan de 2021) <br>
+
 🏬ﾠ**Organização:** Universidade Federal do Ceará (UFC) <br>
+
 📓ﾠ**Atividade desempenhada:** <br>
 O "É da nossa escola que falamos" é um projeto de extensão do Departamento de Psicologia da Universidade Estadual do Ceará (UFC). <br>
-🙋🏻‍♀Durante a minha participação no projeto, conduzi junto com a equipe a pesquisa "Gravidez na adolescência: diálogos sobre maternidade e paternidade na escola". Fizemos bate-papos, entrevistas e outros com o fim de juntar informações para a pesquisa.
+🙋🏻‍♀Durante a minha participação no projeto, conduzi junto com a equipe a pesquisa "Gravidez na adolescência: diálogos sobre maternidade e paternidade na escola". Fizemos bate-papos, entrevistas e outros com o fim de juntar informações para a pesquisa. <br>
+
 🔗 **Links:** <br>
 🠖ㅤ[Declaração de voluntariado](https://drive.google.com/file/d/1O7BjvgHcocwcJb0tCEVl4VveSWnq1lb3/view) <br>
+
+<br>
+
+> Para voltar ao topo, [clique aqui](#-meu-currículo) 😊
+
+<br>
+
+![](https://user-images.githubusercontent.com/69727594/153774542-7e4cc768-62be-4169-9a55-c015b5a55b8d.png)
+### 🌎 Idiomas
