@@ -177,6 +177,7 @@ Participei do Squad 4, onde trabalhamos com o desafio da baixa adesão ao Clube 
 
 🏬ﾠ**Organização:** [#TeuFuturo](https://www.linkedin.com/school/teufuturo/) <br>
 
+#
 #### Voluntária - Frente UX (Núcleo Educacional)
 ###### (nov de 2021 - o momento) <br>
 
