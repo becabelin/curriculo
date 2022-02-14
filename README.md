@@ -273,4 +273,15 @@ O [É da nossa escola que falamos](http://periodicos.ufc.br/eu/article/view/5663
 Obrigada se você leu até aqui!
 Caso queira entrar em contato comigo para quaisquer fins que sejam (feedbacks, sugestões, projetos e trabalho), você pode contatar por [e-mail](mailto:becabelin@gmail.com) ou me seguir nas redes sociais!
 <br><br>
-[LinkedIn](https://www.linkedin.com/in/becabelin) | [Instagram](https://www.instagram.com/meninadeux) | [GitHub](https://github.com/becabelin) | [Behance](https://www.behance.net/becabelin) | [Figma](http://figma.com/@becabelin) | [YouTube](https://www.youtube.com/channel/UCfWSodyesItLGaiwbXd3-_Q)
+
+<p align="left">
+<a href="https://www.behance.net/becabelin" alt="Behance"><img width="100px" alt="Behance" title="Behance" src="https://user-images.githubusercontent.com/69727594/153888848-3fc32501-6599-4988-a944-cdc235400b55.png"/></a>
+  &#8287;&#8287;&#8287;
+<a href="http://figma.com/@becabelin" alt="Figma"><img width="100px" alt="Figma" title="Figma" src="https://user-images.githubusercontent.com/69727594/153889191-264f3a5c-1cdd-4b97-ae85-f0af69307668.png"/></a>
+  &#8287;&#8287;&#8287;
+<a href="https://github.com/becabelin" alt="GitHub"><img width="100px" alt="GitHub" title="GitHub" src="https://user-images.githubusercontent.com/69727594/153889149-95f00066-1400-45f2-aa8c-4811ddea13c8.png"/></a>
+  &#8287;&#8287;&#8287;
+<a href="https://www.instagram.com/meninadeux" alt="Instagram"><img width="100px" alt="Instagram" title="Instagram" src="https://user-images.githubusercontent.com/69727594/153888900-8255efc9-c769-41db-b86f-dcc264b68ad6.png"/></a>
+  &#8287;&#8287;&#8287;
+<a href="https://www.linkedin.com/in/becabelin" alt="LinkedIn"><img width="100px" alt="LinkedIn" title="LinkedIn" src="https://user-images.githubusercontent.com/69727594/153889094-9d146cd4-b1d4-4d0c-aa62-0e0c0359c76f.png"/></a>
+</p>
