@@ -274,6 +274,3 @@ Obrigada se você leu até aqui!
 Caso queira entrar em contato comigo para quaisquer fins que sejam (feedbacks, sugestões, projetos e trabalho), você pode contatar por [e-mail](mailto:becabelin@gmail.com) ou me seguir nas redes sociais!
 <br><br>
 [LinkedIn](https://www.linkedin.com/in/becabelin) | [Instagram](https://www.instagram.com/meninadeux) | [GitHub](https://github.com/becabelin) | [Behance](https://www.behance.net/becabelin) | [Figma](http://figma.com/@becabelin) | [YouTube](https://www.youtube.com/channel/UCfWSodyesItLGaiwbXd3-_Q)
-#
-
-> Para voltar ao topo, [clique aqui](#-meu-currículo) 😊
