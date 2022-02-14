@@ -275,11 +275,11 @@ Caso queira entrar em contato comigo para quaisquer fins que sejam (feedbacks, s
 <br><br>
 
 <a href="https://www.behance.net/becabelin" alt="Behance"><img width="146px" height="35px" alt="Behance" title="Behance" src="https://user-images.githubusercontent.com/69727594/153890395-0671fac2-f845-493c-9506-eb3705360878.png"/></a>
-  &#8287;&#8287;
+  &#8287;
 <a href="http://figma.com/@becabelin" alt="Figma"><img width="146px" height="35px" alt="Figma" title="Figma" src="https://user-images.githubusercontent.com/69727594/153890337-5ece8b65-a546-4060-9edc-8c7a4a411c0b.png"/></a>
-  &#8287;&#8287;
+  &#8287;
 <a href="https://github.com/becabelin" alt="GitHub"><img width="146px" height="35px" alt="GitHub" title="GitHub" src="https://user-images.githubusercontent.com/69727594/153890276-a9792926-8301-44d9-a25b-cf78ddb3499d.png"/></a>
-  &#8287;&#8287;
+  &#8287;
 <a href="https://www.instagram.com/meninadeux" alt="Instagram"><img width="163px" height="35px" alt="Instagram" title="Instagram" src="https://user-images.githubusercontent.com/69727594/153889992-c60829e8-3e2a-4ada-aa05-c464f7c925eb.png"/></a>
-  &#8287;&#8287;
+  &#8287;
 <a href="https://www.linkedin.com/in/becabelin" alt="LinkedIn"><img width="141px" height="35px" alt="LinkedIn" title="LinkedIn" src="https://user-images.githubusercontent.com/69727594/153889816-c5a1e4ed-3f08-4dd9-85dc-bbe7c06ead35.png"/></a>
