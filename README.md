@@ -11,7 +11,6 @@ Para você não se perder, aqui vai um mapinha:
 - [💝 Voluntariado](#-voluntariado)
 - [🤓 Skills](#-skills)
 - [🌎 Idiomas](#-idiomas)
-- [🎖️ Reconhecimentos e prêmios](#-reconhecimentos-e-prêmios)
 
 <br>
 
@@ -42,7 +41,6 @@ Então, comecei a procurar sobre a área de tech e o meu primeiro curso feito co
 <img align="right" src=https://user-images.githubusercontent.com/69727594/153775540-aa404cce-92db-48f4-83f5-2b6e71f04abd.gif width=430>
 
 #### UX/UI Designer Júnior
-
 ###### (jan de 2022 - o momento) <br>
 
 🏬ﾠ**Empresa:** [Jetimob](https://www.jetimob.com) <br>
@@ -55,7 +53,6 @@ Então, comecei a procurar sobre a área de tech e o meu primeiro curso feito co
 
 #
 #### Estagiária de UX/UI Design
-
 ###### (set de 2021 - dez de 2021) <br>
 
 🏬ﾠ**Empresa:** [Klutch Tecnologia](https://www.klutch.com.br) <br>
@@ -81,14 +78,12 @@ Então, comecei a procurar sobre a área de tech e o meu primeiro curso feito co
 ### 📚 Formação acadêmica
 
 #### /código[s] - Formação em Python
-
 ###### (jan de 2022 - o momento) <br>
 
 🏫ﾠ**Escola:** [How Bootcamps](https://howedu.com.br) <br>
 
 #
 #### #OTechTáOn - Curso de Tecnologia
-
 ###### (ago de 2021 - jan de 2022) <br>
 
 🏫ﾠ**Escola:** [#TeuFuturo](https://www.imed.edu.br/institucional/responsabilidade-social/-teufuturo-1) <br>
@@ -117,7 +112,6 @@ Fui líder dos squads que participei e também da Tribo Fênix, onde fizemos o n
 
 #
 #### Academia ConstruDelas - Formação em C#
-
 ###### (set de 2021 - nov de 2021) <br>
 
 🏫ﾠ**Escola:** [Gama Academy](https://www.gama.academy) <br>
@@ -142,7 +136,6 @@ Na academia, participei do módulo de Fundamentos da Programação e depois fui 
 
 #
 #### Product Management
-
 ###### (ago de 2021 - out de 2021) <br>
 
 🏫ﾠ**Escola:** [How Bootcamps](https://howedu.com.br) <br>
@@ -183,10 +176,42 @@ Participei do Squad 4, onde trabalhamos com o desafio da baixa adesão ao Clube 
 <br>
 
 ![](https://user-images.githubusercontent.com/69727594/153774542-7e4cc768-62be-4169-9a55-c015b5a55b8d.png)
+### 🤓 Skills
+
+#### 📗 Atividades
+🠖ㅤUser Experience (UX) <br>
+🠖ㅤUser Interface (UI) <br>
+🠖ㅤUX Research <br>
+🠖ㅤGestão de tarefas <br>
+🠖ㅤMídias sociais <br>
+
+#### 👩🏻‍💻 Programação
+🠖ㅤHTML5 <br>
+🠖ㅤCSS3 <br>
+🠖ㅤJavaScript <br>
+🠖ㅤC# <br>
+🠖ㅤPython <br>
+🠖ㅤGitHub <br>
+🠖ㅤGIT <br>
+
+#### 🛠️ Ferramentas
+🠖ㅤFigma <br>
+🠖ㅤAdobe XD <br>
+🠖ㅤMiro <br>
+🠖ㅤTrello <br>
+🠖ㅤInVision <br>
+🠖ㅤClickUp <br>
+
+<br>
+
+> Para voltar ao topo, [clique aqui](#-meu-currículo) 😊
+
+<br>
+
+![](https://user-images.githubusercontent.com/69727594/153774542-7e4cc768-62be-4169-9a55-c015b5a55b8d.png)
 ### 💝 Voluntariado
 
 #### Voluntária - Frente UX (Núcleo Educacional)
-
 ###### (nov de 2021 - o momento) <br>
 
 🏬ﾠ**Organização:** [Instituto Bold](https://www.institutobold.org.br) <br>
@@ -196,7 +221,6 @@ Ajudo a entender como está sendo a experiência dos alunos desde o onboarding n
 
 #
 #### Embaixadora
-
 ###### (jul de 2021 - set de 2021) <br>
 
 🏬ﾠ**Organização:** [Rede Multilateral](https://www.instagram.com/redemultilateral/) <br>
@@ -209,7 +233,6 @@ Durante meu período como voluntária, ajudei na divulgação de projetos e enca
 
 #
 #### Voluntária
-
 ###### (jul de 2021 - ago de 2021) <br>
 
 🏬ﾠ**Organização:** [Atados](https://www.atados.com.br) <br>
@@ -219,7 +242,6 @@ Fui escritora de cartas na ação Corrente do Bem, que é destinada a transforma
 
 #
 #### Colaboradora voluntária
-
 ###### (set de 2020 - jan de 2021) <br>
 
 🏬ﾠ**Organização:** Universidade Federal do Ceará (UFC) <br>
@@ -239,3 +261,19 @@ O "É da nossa escola que falamos" é um projeto de extensão do Departamento de
 
 ![](https://user-images.githubusercontent.com/69727594/153774542-7e4cc768-62be-4169-9a55-c015b5a55b8d.png)
 ### 🌎 Idiomas
+
+#### Português
+🤓ﾠ**Proeficiência:** nativo <br>
+
+#
+#### Inglês
+🤓ﾠ**Proeficiência:** básico a intermediário <br>
+📒ﾠ**Cursos:** cursando o 4º semestre no IMPARH <br>
+
+<br>
+
+> Para voltar ao topo, [clique aqui](#-meu-currículo) 😊
+
+<br>
+
+![](https://user-images.githubusercontent.com/69727594/153774542-7e4cc768-62be-4169-9a55-c015b5a55b8d.png)
