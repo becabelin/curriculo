@@ -172,6 +172,11 @@ Participei do Squad 4, onde trabalhamos com o desafio da baixa adesão ao Clube 
 ![](https://user-images.githubusercontent.com/69727594/153774542-7e4cc768-62be-4169-9a55-c015b5a55b8d.png)
 ### 💝 Voluntariado
 
+#### Embaixadora da Educação
+###### (fev de 2022 - o momento) <br>
+
+🏬ﾠ**Organização:** [#TeuFuturo](https://www.linkedin.com/school/teufuturo/) <br>
+
 #### Voluntária - Frente UX (Núcleo Educacional)
 ###### (nov de 2021 - o momento) <br>
 
