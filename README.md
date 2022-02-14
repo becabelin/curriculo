@@ -87,7 +87,7 @@ Então, comecei a procurar sobre a área de tech e o meu primeiro curso feito co
 
 🤓 **Sobre o curso:**
 
-No #OTechTáOn, ganhei uma vaga para a primeira turma da jornada Preparar, que consiste em aprender a programar e todas as habilidades necessárias para procurar o primeiro emprego em empresas de tecnologia. Aprendemos usando as plataformas de ensino Khan Academy e Alura. <br>
+No #OTechTáOn, ganhei uma vaga para a primeira turma da jornada Preparar, que consiste em aprender a programar e todas as habilidades necessárias para procurar o primeiro emprego em empresas de tecnologia. Aprendemos usando as plataformas de ensino Khan Academy e Alura. <br><br>
 Fui líder dos squads que participei e também da Tribo Fênix, onde fizemos o nosso projeto de conclusão de curso, Mentalix, que é voltado para cuidados com a saúde. Também fui uma das oradoras de turma na formatura e também uma das alunas destaque, sendo premiada.
 
 📓ﾠ**O que aprendi:** <br>
@@ -116,7 +116,7 @@ Fui líder dos squads que participei e também da Tribo Fênix, onde fizemos o n
 
 🤓 **Sobre o curso:**
 
-O ConstruDelas é um programa de formação em tecnologia 100% online e gratuito contendo cerca de 160 horas de formação - com aprendizado na prática e em grupo e mentorias com professores e profissionais - para todas as mulheres que querem dar um novo rumo para sua carreira contando com uma formação gratuita básica em programação. <br>
+O ConstruDelas é um programa de formação em tecnologia 100% online e gratuito contendo cerca de 160 horas de formação - com aprendizado na prática e em grupo e mentorias com professores e profissionais - para todas as mulheres que querem dar um novo rumo para sua carreira contando com uma formação gratuita básica em programação. <br><br>
 Na academia, participei do módulo de Fundamentos da Programação e depois fui para a turma de C#, com as aulas ministradas pelos professores Danilo Aparecido (Torne-se Um Programador) e Filipe Ceccon.
 
 📓ﾠ**O que aprendi:** <br>
@@ -141,7 +141,8 @@ Na academia, participei do módulo de Fundamentos da Programação e depois fui 
 
 🤓 **Sobre o curso:**
 
-O Bootcamp foi uma formação prática de 10 semanas para dar o próximo passo em Product Management, uma área que envolve a concepção, desenvolvimento, lançamento, suporte e melhorias de produtos digitais.
+O Bootcamp foi uma formação prática de 10 semanas para dar o próximo passo em Product Management, uma área que envolve a concepção, desenvolvimento, lançamento, suporte e melhorias de produtos digitais. <br><br>
+Participei do Squad 4, onde trabalhamos com o desafio da baixa adesão ao Clube iFood.
 
 📓ﾠ**O que aprendi:** <br>
 🠖ㅤIntrodução a Product Management <br>
@@ -149,9 +150,7 @@ O Bootcamp foi uma formação prática de 10 semanas para dar o próximo passo e
 🠖ㅤProcessos de Discovery e Delivery <br>
 🠖ㅤLançamento e Cultura de Produto <br>
 
-🧏🏻 Participei do Squad 4, onde trabalhamos com o desafio da baixa adesão ao Clube iFood.
-
-🧐 Durante o processo de Discovery, trabalhamos com: <br>
+🧐 Durante o processo de **Discovery**, trabalhamos com: <br>
 🠖ㅤBenchmarking e Golden Circle <br>
 🠖ㅤBusiness Model Canvas <br>
 🠖ㅤVisão de Produto e Matriz CSD <br>
@@ -160,7 +159,7 @@ O Bootcamp foi uma formação prática de 10 semanas para dar o próximo passo e
 🠖ㅤEmpathy Canvas e Jornada do Usuário <br>
 🠖ㅤValue Proposition <br>
 
-🛒 No processo de Delivery: <br>
+🛒 No processo de **Delivery**: <br>
 🠖ㅤCriação dos protótipos da solução <br>
 🠖ㅤGo To Market <br>
 🠖ㅤHeart Framework <br>
@@ -168,3 +167,44 @@ O Bootcamp foi uma formação prática de 10 semanas para dar o próximo passo e
 🔗 **Links**: <br>
 🠖ㅤ[Certificado](https://drive.google.com/file/d/1ZRsEnBdnUaxQpQo731UpBnBrl1awt5s0/view?usp=sharing) <br>
 🠖ㅤ[Projeto](https://www.linkedin.com/in/becabelin/details/education/739796119/multiple-media-viewer/?treasuryMediaId=1635472489077) <br>
+
+<br>
+
+> Para voltar ao topo, [clique aqui](#-meu-currículo) 😊
+
+<br>
+
+![](https://user-images.githubusercontent.com/69727594/153774542-7e4cc768-62be-4169-9a55-c015b5a55b8d.png)
+### 💝 Voluntariado
+
+#### Voluntária - Frente UX (Núcleo Educacional)
+###### (nov de 2021 - o momento) <br>
+🏬ﾠ**Organização:** [Instituto Bold](https://www.institutobold.org.br) <br>
+📓ﾠ**Atividade desempenhada:** <br>
+Ajudo a entender como está sendo a experiência dos alunos desde o onboarding no projeto até a realização das jornadas dentro do Bold.
+
+#
+#### Embaixadora
+###### (jul de 2021 - set de 2021) <br>
+🏬ﾠ**Organização:** [Rede Multilateral](https://www.instagram.com/redemultilateral/) <br>
+📓ﾠ**Atividade desempenhada:** <br>
+Durante meu período como voluntária, ajudei na divulgação de projetos e encaminhei alunos para as iniciativas, todas voltadas para a educação.
+🔗 **Links:** <br>
+🠖ㅤ[Declaração de voluntariado (90h)](https://drive.google.com/file/d/1RSJEJXCPvMEp5b9fO6Y2UAfXc-ArLw8k/view) <br>
+
+#
+#### Voluntária
+###### (jul de 2021 - ago de 2021) <br>
+🏬ﾠ**Organização:** [Atados](https://www.atados.com.br) <br>
+📓ﾠ**Atividade desempenhada:** <br>
+Fui escritora de cartas na ação Corrente do Bem, que é destinada a transformar a vida de idosos e profissionais da saúde com muita alegria e carinho através de cartas, nesses momentos tão difíceis.
+
+#
+#### Colaboradora voluntária
+###### (set de 2020 - jan de 2021) <br>
+🏬ﾠ**Organização:** Universidade Federal do Ceará (UFC) <br>
+📓ﾠ**Atividade desempenhada:** <br>
+O "É da nossa escola que falamos" é um projeto de extensão do Departamento de Psicologia da Universidade Estadual do Ceará (UFC). <br>
+🙋🏻‍♀Durante a minha participação no projeto, conduzi junto com a equipe a pesquisa "Gravidez na adolescência: diálogos sobre maternidade e paternidade na escola". Fizemos bate-papos, entrevistas e outros com o fim de juntar informações para a pesquisa.
+🔗 **Links:** <br>
+🠖ㅤ[Declaração de voluntariado](https://drive.google.com/file/d/1O7BjvgHcocwcJb0tCEVl4VveSWnq1lb3/view) <br>
