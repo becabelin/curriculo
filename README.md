@@ -27,8 +27,7 @@ Sou de Fortaleza, no Ceará, e atualmente sou UX/UI Designer - que estuda para s
 Em 2020 eu estava no segundo ano do ensino médio e era aquele tipo de aluna que só tentava tirar a nota boa e depois nem ligava mais, mas com a pandemia eu simplesmente **cansei** de ficar em casa o tempo todo sem fazer nada e pensei: **ah, vamo fazer um curso!** (o famoso ["reage mulher, bota um cropped"](https://g1.globo.com/pop-arte/noticia/2022/01/31/reage-bota-um-cropped-a-origem-do-meme.ghtml)).
 
 Então, comecei a procurar sobre a área de tech e o meu primeiro curso feito com dedicação foi o de Kotlin da [Estação Hack](http://br.cellep.com/estacaohack/). Não fui tão bem assim na programação, mas adorei poder escolher as cores, ícones e botões do aplicativo, então vi que tinha um curso de Design na plataforma e me inscrevi. Bom, o resto você já imagina: eu me apaixonei pela área e hoje eu trabalho com **UI/UX Design**!
-
-<br>
+#
 
 > Para voltar ao topo, [clique aqui](#-meu-currículo) 😊
 
@@ -67,8 +66,7 @@ Então, comecei a procurar sobre a área de tech e o meu primeiro curso feito co
 🠖ㅤCriação de style guide e design system <br>
 🠖ㅤEstratégias de marketing <br>
 🠖ㅤUX Research <br>
-
-# <br>
+#
 
 > Para voltar ao topo, [clique aqui](#-meu-currículo) 😊
 
@@ -168,8 +166,7 @@ Participei do Squad 4, onde trabalhamos com o desafio da baixa adesão ao Clube 
 🔗 **Links**: <br>
 🠖ㅤ[Certificado](https://drive.google.com/file/d/1ZRsEnBdnUaxQpQo731UpBnBrl1awt5s0/view?usp=sharing) <br>
 🠖ㅤ[Projeto](https://www.linkedin.com/in/becabelin/details/education/739796119/multiple-media-viewer/?treasuryMediaId=1635472489077) <br>
-
-# <br>
+#
 
 > Para voltar ao topo, [clique aqui](#-meu-currículo) 😊
 
@@ -201,8 +198,7 @@ Participei do Squad 4, onde trabalhamos com o desafio da baixa adesão ao Clube 
 🠖ㅤTrello <br>
 🠖ㅤInVision <br>
 🠖ㅤClickUp <br>
-
-# <br>
+#
 
 > Para voltar ao topo, [clique aqui](#-meu-currículo) 😊
 
@@ -252,8 +248,7 @@ O "É da nossa escola que falamos" é um projeto de extensão do Departamento de
 
 🔗 **Links:** <br>
 🠖ㅤ[Declaração de voluntariado](https://drive.google.com/file/d/1O7BjvgHcocwcJb0tCEVl4VveSWnq1lb3/view) <br>
-
-# <br>
+#
 
 > Para voltar ao topo, [clique aqui](#-meu-currículo) 😊
 
@@ -269,8 +264,7 @@ O "É da nossa escola que falamos" é um projeto de extensão do Departamento de
 #### Inglês
 🤓ﾠ**Proeficiência:** básico a intermediário <br>
 📒ﾠ**Cursos:** cursando o 4º semestre no IMPARH <br>
-
-# <br>
+#
 
 > Para voltar ao topo, [clique aqui](#-meu-currículo) 😊
 
