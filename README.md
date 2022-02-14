@@ -68,7 +68,7 @@ Então, comecei a procurar sobre a área de tech e o meu primeiro curso feito co
 🠖ㅤEstratégias de marketing <br>
 🠖ㅤUX Research <br>
 
-<br>
+# <br>
 
 > Para voltar ao topo, [clique aqui](#-meu-currículo) 😊
 
@@ -169,7 +169,7 @@ Participei do Squad 4, onde trabalhamos com o desafio da baixa adesão ao Clube 
 🠖ㅤ[Certificado](https://drive.google.com/file/d/1ZRsEnBdnUaxQpQo731UpBnBrl1awt5s0/view?usp=sharing) <br>
 🠖ㅤ[Projeto](https://www.linkedin.com/in/becabelin/details/education/739796119/multiple-media-viewer/?treasuryMediaId=1635472489077) <br>
 
-<br>
+# <br>
 
 > Para voltar ao topo, [clique aqui](#-meu-currículo) 😊
 
@@ -202,7 +202,7 @@ Participei do Squad 4, onde trabalhamos com o desafio da baixa adesão ao Clube 
 🠖ㅤInVision <br>
 🠖ㅤClickUp <br>
 
-<br>
+# <br>
 
 > Para voltar ao topo, [clique aqui](#-meu-currículo) 😊
 
@@ -253,7 +253,7 @@ O "É da nossa escola que falamos" é um projeto de extensão do Departamento de
 🔗 **Links:** <br>
 🠖ㅤ[Declaração de voluntariado](https://drive.google.com/file/d/1O7BjvgHcocwcJb0tCEVl4VveSWnq1lb3/view) <br>
 
-<br>
+# <br>
 
 > Para voltar ao topo, [clique aqui](#-meu-currículo) 😊
 
@@ -270,7 +270,7 @@ O "É da nossa escola que falamos" é um projeto de extensão do Departamento de
 🤓ﾠ**Proeficiência:** básico a intermediário <br>
 📒ﾠ**Cursos:** cursando o 4º semestre no IMPARH <br>
 
-<br>
+# <br>
 
 > Para voltar ao topo, [clique aqui](#-meu-currículo) 😊
 
