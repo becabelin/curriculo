@@ -73,7 +73,7 @@ Então, comecei a procurar sobre a área de tech e o meu primeiro curso feito co
 ### 📚 Formação acadêmica
 
 #### /código[s] - Formação em Python
-###### (jan de 2022 - o momento) <br>
+###### (fev de 2022 - o momento) <br>
 
 🏫ﾠ**Escola:** [How Bootcamps](https://howedu.com.br) <br>
 
