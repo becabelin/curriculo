@@ -77,6 +77,10 @@ Então, comecei a procurar sobre a área de tech e o meu primeiro curso feito co
 
 🏫ﾠ**Escola:** [How Bootcamps](https://howedu.com.br) <br>
 
+🤓 **Sobre o curso:**
+
+O bootcamp é um programa feito pela Stone em parceira com a How Bootcamps que ensina pessoas de todas as idades e formações em tecnologia, oferecendo um treinamento em Python! Foram apenas 200 vagas para mais de 10 mil inscritos.
+
 #
 #### #OTechTáOn - Curso de Tecnologia
 ###### (ago de 2021 - jan de 2022) <br>
