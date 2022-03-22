@@ -90,8 +90,8 @@ No curso de tecnologia de Sistemas para Internet, o objetivo é se preparar para
 🏫ﾠ**Escola:** [WoMakersCode](https://womakerscode.org/construdelas) <br>
 
 🤓 **Sobre o curso:**
- O ConstruDelas é um programa de capacitação para mulheres na área de programação back-end, criado pela Juntos Somos Mais, em parceria com a WoMakersCode.
- 
+O ConstruDelas 2.0 é a continuação da primeira academia, mas dessa vez produzido pela WoMakersCode. Nele, seguimos primeiramente numa trilha de front-end e depois fomos divididas em duas turmas, onde eu me formei em Python.
+
  📓ﾠ**O que aprendi:** <br>
 🠖ㅤLógica de Programação <br>
 🠖ㅤSolução de Problemas <br>
