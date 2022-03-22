@@ -72,14 +72,58 @@ Então, comecei a procurar sobre a área de tech e o meu primeiro curso feito co
 ![](https://user-images.githubusercontent.com/69727594/153774542-7e4cc768-62be-4169-9a55-c015b5a55b8d.png)
 ### 📚 Formação acadêmica
 
-#### /código[s] - Formação em Python
-###### (fev de 2022 - o momento) <br>
+#### Graduação em Sistemas para Internet
+###### (mar de 2022 - dez de 2023) <br>
+
+🏫ﾠ**Escola:** [FIAP](https://www.fiap.com.br/online/graduacao/tecnologo/sistemas-para-internet/) <br>
+
+🤓 **Sobre o curso:**
+
+No curso de tecnologia de Sistemas para Internet, o objetivo é se preparar para esta nova demanda do mercado: o comércio eletrônico e da transformação digital. Você irá aprender sobre diversas tecnologias e ferramentas do desenvolvimento web responsivo front-end e back-end, se formando como um profissional completo full stack, pronto para atuar em áreas de e-commerce e e-business. Também estará apto a desenvolver experiências e plataformas inovadoras, recebendo todo o aporte de conhecimento necessário para criar sua própria startup.
+
+🔗 **Links**: <br>
+🠖ㅤ[Atividades feitas](https://github.com/becabelin/sip-fiap)
+
+#
+#### ConstruDelas 2.0 - Formação em Python
+###### (mar de 2022 - jul de 2022) <br>
+
+🏫ﾠ**Escola:** [WoMakersCode](https://womakerscode.org/construdelas) <br>
+
+🤓 **Sobre o curso:**
+
+ O ConstruDelas é um programa de capacitação para mulheres na área de programação back-end, criado pela Juntos Somos Mais, em parceria com a WoMakersCode.
+ 
+ 📓ﾠ**O que aprendi:** <br>
+🠖ㅤLógica de Programação <br>
+🠖ㅤSolução de Problemas <br>
+🠖ㅤMetodologias Ágeis <br>
+🠖ㅤHTML E CSS <br>
+🠖ㅤJavaScript <br>
+🠖ㅤPython <br>
+🠖ㅤGitHub <br>
+🠖ㅤEstrutura de Dados <br>
+🠖ㅤSQL <br>
+🠖ㅤAPIs <br>
+🠖ㅤTestes <br>
+🠖ㅤ.NET Core <br>
+🠖ㅤComputação em Nuvem <br>
+
+🔗 **Links**: <br>
+🠖ㅤ[Atividades feitas](https://github.com/becabelin/construdelas-wmc)
+
+#
+#### /código[s] - Bootcamp de Python
+###### (fev de 2022 - jul de 2022) <br>
 
 🏫ﾠ**Escola:** [How Bootcamps](https://howedu.com.br) <br>
 
 🤓 **Sobre o curso:**
 
 O bootcamp é um programa feito pela Stone em parceira com a How Bootcamps que ensina pessoas de todas as idades e formações em tecnologia, oferecendo um treinamento em Python! Foram apenas 200 vagas para mais de 10 mil inscritos.
+
+🔗 **Links**: <br>
+🠖ㅤ[Atividades feitas](https://github.com/becabelin/bootcamp-python)
 
 #
 #### #OTechTáOn - Curso de Tecnologia
@@ -134,7 +178,7 @@ Na academia, participei do módulo de Fundamentos da Programação e depois fui 
 🠖ㅤ[Atividades feitas durante o curso](https://github.com/becabelin/construdelas-gama) <br>
 
 #
-#### Product Management
+#### Bootcamp de Product Management
 ###### (ago de 2021 - out de 2021) <br>
 
 🏫ﾠ**Escola:** [How Bootcamps](https://howedu.com.br) <br>
