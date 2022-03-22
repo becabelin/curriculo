@@ -78,7 +78,6 @@ Então, comecei a procurar sobre a área de tech e o meu primeiro curso feito co
 🏫ﾠ**Escola:** [FIAP](https://www.fiap.com.br/online/graduacao/tecnologo/sistemas-para-internet/) <br>
 
 🤓 **Sobre o curso:**
-
 No curso de tecnologia de Sistemas para Internet, o objetivo é se preparar para esta nova demanda do mercado: o comércio eletrônico e da transformação digital. Você irá aprender sobre diversas tecnologias e ferramentas do desenvolvimento web responsivo front-end e back-end, se formando como um profissional completo full stack, pronto para atuar em áreas de e-commerce e e-business. Também estará apto a desenvolver experiências e plataformas inovadoras, recebendo todo o aporte de conhecimento necessário para criar sua própria startup.
 
 🔗 **Links**: <br>
@@ -91,7 +90,6 @@ No curso de tecnologia de Sistemas para Internet, o objetivo é se preparar para
 🏫ﾠ**Escola:** [WoMakersCode](https://womakerscode.org/construdelas) <br>
 
 🤓 **Sobre o curso:**
-
  O ConstruDelas é um programa de capacitação para mulheres na área de programação back-end, criado pela Juntos Somos Mais, em parceria com a WoMakersCode.
  
  📓ﾠ**O que aprendi:** <br>
@@ -119,7 +117,6 @@ No curso de tecnologia de Sistemas para Internet, o objetivo é se preparar para
 🏫ﾠ**Escola:** [How Bootcamps](https://howedu.com.br) <br>
 
 🤓 **Sobre o curso:**
-
 O bootcamp é um programa feito pela Stone em parceira com a How Bootcamps que ensina pessoas de todas as idades e formações em tecnologia, oferecendo um treinamento em Python! Foram apenas 200 vagas para mais de 10 mil inscritos.
 
 🔗 **Links**: <br>
@@ -132,7 +129,6 @@ O bootcamp é um programa feito pela Stone em parceira com a How Bootcamps que e
 🏫ﾠ**Escola:** [#TeuFuturo](https://www.imed.edu.br/institucional/responsabilidade-social/-teufuturo-1) <br>
 
 🤓 **Sobre o curso:**
-
 No #OTechTáOn, ganhei uma vaga para a primeira turma da jornada Preparar, que consiste em aprender a programar e todas as habilidades necessárias para procurar o primeiro emprego em empresas de tecnologia. Aprendemos usando as plataformas de ensino Khan Academy e Alura. <br><br>
 Fui líder dos squads que participei e também da Tribo Fênix, onde fizemos o nosso projeto de conclusão de curso, Mentalix, que é voltado para cuidados com a saúde. Também fui uma das oradoras de turma na formatura e também uma das alunas destaque, sendo premiada.
 
@@ -160,7 +156,6 @@ Fui líder dos squads que participei e também da Tribo Fênix, onde fizemos o n
 🏫ﾠ**Escola:** [Gama Academy](https://www.gama.academy) <br>
 
 🤓 **Sobre o curso:**
-
 O ConstruDelas é um programa de formação em tecnologia 100% online e gratuito contendo cerca de 160 horas de formação - com aprendizado na prática e em grupo e mentorias com professores e profissionais - para todas as mulheres que querem dar um novo rumo para sua carreira contando com uma formação gratuita básica em programação. <br><br>
 Na academia, participei do módulo de Fundamentos da Programação e depois fui para a turma de C#, com as aulas ministradas pelos professores Danilo Aparecido (Torne-se Um Programador) e Filipe Ceccon.
 
@@ -184,7 +179,6 @@ Na academia, participei do módulo de Fundamentos da Programação e depois fui 
 🏫ﾠ**Escola:** [How Bootcamps](https://howedu.com.br) <br>
 
 🤓 **Sobre o curso:**
-
 O Bootcamp foi uma formação prática de 10 semanas para dar o próximo passo em Product Management, uma área que envolve a concepção, desenvolvimento, lançamento, suporte e melhorias de produtos digitais. <br><br>
 Participei do Squad 4, onde trabalhamos com o desafio da baixa adesão ao Clube iFood.
 
