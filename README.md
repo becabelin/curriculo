@@ -21,12 +21,18 @@ Para você não se perder, aqui vai um mapinha:
 
 Como eu falei ali em cima, meu nome é Rebeca, as vezes Alves e quase sempre Belin 😆
 
-<img align="right" src=https://user-images.githubusercontent.com/69727594/153773539-6121bf9c-84e8-4646-aa2b-423da729dc25.png width=200>
-Sou de Fortaleza, no Ceará, e atualmente sou UX/UI Designer - que estuda para ser uma dev full-stack também. Eu sempre gostei muito de tecnologia, desde pequena, mas não me imaginava na área de jeito nenhum. Para falar a verdade, eu já me vi fazendo muitas coisas, mas nunca design ou programação.<br><br>
+<img align="right" src="https://user-images.githubusercontent.com/69727594/169374469-39bd6fc2-7a3e-4d28-b94a-651b1457826a.png" width=200>
+Sou de Fortaleza, no Ceará, e sou **UX/UI Designer e Desenvolvedora Full-Stack**. Eu sempre gostei muito de tecnologia, desde pequena, mas **não me imaginava na área** de jeito nenhum. Para falar a verdade, eu já me vi fazendo muitas coisas, mas nunca design ou programação.<br><br>
 
 Em 2020 eu estava no segundo ano do ensino médio e era aquele tipo de aluna que só tentava tirar a nota boa e depois nem ligava mais, mas com a pandemia eu simplesmente **cansei** de ficar em casa o tempo todo sem fazer nada e pensei: **ah, vamo fazer um curso!** (o famoso ["reage mulher, bota um cropped"](https://g1.globo.com/pop-arte/noticia/2022/01/31/reage-bota-um-cropped-a-origem-do-meme.ghtml)).
 
-Então, comecei a procurar sobre a área de tech e o meu primeiro curso feito com dedicação foi o de Kotlin da [Estação Hack](http://br.cellep.com/estacaohack/). Não fui tão bem assim na programação, mas adorei poder escolher as cores, ícones e botões do aplicativo, então vi que tinha um curso de Design na plataforma e me inscrevi. Bom, o resto você já imagina: eu me apaixonei pela área e hoje eu trabalho com **UI/UX Design**!
+Então, **comecei a procurar sobre a área de tech** e o meu primeiro curso feito com dedicação foi o de Kotlin da [Estação Hack](http://br.cellep.com/estacaohack/). Não fui tão bem assim na programação (para falar a real, meu projeto deu errado e **eu odiei** hahahahah), mas adorei poder escolher as cores, ícones e botões do aplicativo, então vi que tinha um curso de Design na plataforma e me inscrevi. Bom, o resto você já imagina: eu **me apaixonei** pela área de UX/UI Design!
+
+<img align="left" src="https://user-images.githubusercontent.com/69727594/169374617-bdb7f5b6-c297-49ad-841f-e4a296ab169f.png" width=200>
+
+Sendo o meu maior xodó, fui atrás de mais cursos gratuitos sobre a área e construí alguns projetinhos e cases legais. Na hora de aplicar para as vagas de Júnior e Estágio, sofria muito quando via o famoso requisito: *noções de HTML e CSS*. Eu não fazia a **menor ideia** do que era, e quando descobri que era programação, quase chorei, juro. Maaaaas, enfim, **eu ia ter que aprender de qualquer jeito**, e então acabou aparecendo um curso de programação para mim e eu passei no processo seletivo. Acabei amando programação também e **decidi que seria tanto designer quanto desenvolvedora**!
+
+Sou dona da [**Menina de UX**](https://meninadeux.com), que é uma garota que ama tecnologia e se apaixonou por UX/UI Design. Essa iniciativa consiste em **compartilhar conteúdo da área de Design** e **encaminhar jovens** que também queiram começar sua carreira em UX. Nas redes sociais e no site, posto sobre cursos e bootcamps gratuitos, além de dar dicas sobre mercado de trabalho de tecnologia e informações na área.
 #
 
 > Para voltar ao topo, [clique aqui](#-meu-currículo) 😊
@@ -36,12 +42,24 @@ Então, comecei a procurar sobre a área de tech e o meu primeiro curso feito co
 ![](https://user-images.githubusercontent.com/69727594/153774542-7e4cc768-62be-4169-9a55-c015b5a55b8d.png)
 ### 🖥️ Experiência profissional
 
+#### Desenvolvedora Back-End Júnior I
+###### (abr de 2022 - presente) <br>
+
+🏬ﾠ**Empresa:** [BEES Brasil](https://novo.parceiroambev.com.br) <br>
+
+🕑ﾠ**Tipo de trabalho:** tempo integral <br>
+
+📓ﾠ**Atividades desempenhadas:** <br>
+🠖ㅤTestes unitários em Java e Postman <br>
+🠖ㅤAjustes e criação de documentações <br>
+
+#
 #### UX/UI Designer Júnior
-###### (jan de 2022 - o momento) <br>
+###### (jan de 2022 - abr de 2022) <br>
 
 🏬ﾠ**Empresa:** [Jetimob](https://www.jetimob.com) <br>
 
-🕑ﾠ**Tipo de trabalho:** meio período <br>
+🕑ﾠ**Tipo de trabalho:** tempo integral <br>
 
 📓ﾠ**Atividades desempenhadas:** <br>
 🠖ㅤCriação de interfaces <br>
@@ -78,37 +96,10 @@ Então, comecei a procurar sobre a área de tech e o meu primeiro curso feito co
 🏫ﾠ**Escola:** [FIAP](https://www.fiap.com.br/online/graduacao/tecnologo/sistemas-para-internet/) <br>
 
 🤓 **Sobre o curso:** <br>
-No curso de tecnologia de Sistemas para Internet, o objetivo é se preparar para esta nova demanda do mercado: o comércio eletrônico e da transformação digital.<br><br> Você irá aprender sobre diversas tecnologias e ferramentas do desenvolvimento web responsivo front-end e back-end, se formando como um profissional completo full stack, pronto para atuar em áreas de e-commerce e e-business. <br>Também estará apto a desenvolver experiências e plataformas inovadoras, recebendo todo o aporte de conhecimento necessário para criar sua própria startup.
+No curso de tecnologia de Sistemas para Internet, estou aprendendo as skills necessárias para me tornar uma desenvolvedora full-stack.
 
 🔗 **Links**: <br>
 🠖ㅤ[Atividades feitas](https://github.com/becabelin/sip-fiap)
-
-#
-#### ConstruDelas 2.0 - Formação em Python
-###### (mar de 2022 - jul de 2022) <br>
-
-🏫ﾠ**Escola:** [WoMakersCode](https://womakerscode.org/construdelas) <br>
-
-🤓 **Sobre o curso:** <br>
-O ConstruDelas 2.0 é a continuação da primeira academia, mas dessa vez produzido pela WoMakersCode. Nele, seguimos primeiramente numa trilha de front-end e depois fomos divididas em duas turmas, onde eu me formei em Python.
-
- 📓ﾠ**O que aprendi:** <br>
-🠖ㅤLógica de Programação <br>
-🠖ㅤSolução de Problemas <br>
-🠖ㅤMetodologias Ágeis <br>
-🠖ㅤHTML E CSS <br>
-🠖ㅤJavaScript <br>
-🠖ㅤPython <br>
-🠖ㅤGitHub <br>
-🠖ㅤEstrutura de Dados <br>
-🠖ㅤSQL <br>
-🠖ㅤAPIs <br>
-🠖ㅤTestes <br>
-🠖ㅤ.NET Core <br>
-🠖ㅤComputação em Nuvem <br>
-
-🔗 **Links**: <br>
-🠖ㅤ[Atividades feitas](https://github.com/becabelin/construdelas-wmc)
 
 #
 #### /código[s] - Bootcamp de Python
@@ -229,7 +220,7 @@ Espalho conteúdos sobre educação e carreira pelo Brasil e apoio as iniciativa
 🏬ﾠ**Organização:** [Instituto Bold](https://www.institutobold.org.br) <br>
 
 📓ﾠ**Atividade desempenhada:** <br>
-Ajudo a entender como está sendo a experiência dos alunos desde o onboarding no projeto até a realização das jornadas dentro do Bold.
+Ajudo a entender como está sendo a experiência dos alunos desde o onboarding no projeto até a realização das jornadas dentro do Bold. Também trabalho com a criação de materiais para serem exibidos durantes as aulas
 
 #
 #### Embaixadora
@@ -278,16 +269,18 @@ O [É da nossa escola que falamos](http://periodicos.ufc.br/eu/article/view/5663
 🠖ㅤUser Interface (UI) <br>
 🠖ㅤUX Research <br>
 🠖ㅤGestão de tarefas <br>
-🠖ㅤMídias sociais <br>
+🠖ㅤConteúdos para mídias sociais <br>
+🠖ㅤCriação de testes unitários <br>
 
 #### 👩🏻‍💻 Programação
 🠖ㅤHTML5 <br>
 🠖ㅤCSS3 <br>
 🠖ㅤJavaScript <br>
-🠖ㅤC# <br>
 🠖ㅤPython <br>
 🠖ㅤGitHub <br>
 🠖ㅤGIT <br>
+🠖ㅤJava <br>
+🠖ㅤPostman <br>
 
 #### 🛠️ Ferramentas
 🠖ㅤFigma <br>
@@ -296,6 +289,7 @@ O [É da nossa escola que falamos](http://periodicos.ufc.br/eu/article/view/5663
 🠖ㅤTrello <br>
 🠖ㅤInVision <br>
 🠖ㅤClickUp <br>
+🠖ㅤIntelliJ <br>
 #
 
 > Para voltar ao topo, [clique aqui](#-meu-currículo) 😊
